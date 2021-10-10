@@ -31,7 +31,6 @@ namespace FastRestartRadeon
                         Console.WriteLine("No se encontro RadeonSoftware.exe");
                         Thread.Sleep(2000);
                     }
-                    nashe
                 }
             }
         }
