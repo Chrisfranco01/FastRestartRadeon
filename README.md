@@ -1,7 +1,7 @@
 # FastRestartRadeon
 
 ```css
-Fast restart for radeaon software, to solve an error of this software.
+Fast restart for radeaon, to solve an error of this software.
 ```
 
 
